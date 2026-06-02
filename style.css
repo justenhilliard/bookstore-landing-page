@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:Cinzel, Geneva, Tahoma, sans-serif
+}
+
+.search-container {
+    width: 400px;        
+    max-width: 90%;
+    margin: auto;  
+  }
+  
+  .search-input{
+    width: 100%;         
+    padding: 10px;       
+    box-sizing: border-box;
+  }
+  
+.topbar{
+    background-color: aquamarine;
+    padding: 45px 20px 35px 20px;
+    
+
+}
+
+.nav-bar{
+    margin-top: 24px;
+    background-color: rgb(200, 200, 234);
+    padding: auto;
+}
+.main-section{
+    background-color: azure;
+}
+
+.footer-section{
+    background-color:blueviolet;
+}
