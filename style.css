@@ -19,14 +19,19 @@ body{
 .topbar{
     background-color: aquamarine;
     padding: 45px 20px 35px 20px;
-    
-
 }
 
 .nav-bar{
     margin-top: 24px;
+    margin-bottom: 0px;
     background-color: rgb(200, 200, 234);
-    padding: auto;
+    padding: 10px;
+
+}
+
+.nav-bar a{
+    text-decoration: none;
+    margin: 0 12px;
 }
 .main-section{
     background-color: azure;
