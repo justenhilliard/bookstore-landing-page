@@ -1,7 +1,8 @@
 body{
-    margin: 0;
-    text-align: center;
-    font-family:Cinzel, Geneva, Tahoma, sans-serif
+    margin: 10;
+    font-family:Cinzel, Geneva, Tahoma, sans-serif;
+    color: #2d241d;
+    background-color: rgb(133, 99, 75);
 }
 
 .search-container {
@@ -17,26 +18,27 @@ body{
   }
   
 .topbar{
-    background-color: aquamarine;
+    background-color: rgb(145, 123, 99);
     padding: 45px 20px 35px 20px;
+    text-align: center;
 }
 
 .nav-bar{
-    margin-top: 24px;
+    margin-top: 18px;
     margin-bottom: 0px;
-    background-color: rgb(200, 200, 234);
     padding: 10px;
-
 }
 
 .nav-bar a{
+    color: #000000;
     text-decoration: none;
     margin: 0 12px;
+    font-weight: bold;
 }
 .main-section{
-    background-color: azure;
+    background-color: rgb(145, 123, 99);
 }
 
 .footer-section{
-    background-color:blueviolet;
+    background-color:rgb(145, 123, 99);
 }
