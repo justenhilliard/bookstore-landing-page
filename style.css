@@ -54,6 +54,19 @@ article{
     padding: 20px;
     margin-bottom: 16px; /* separates the articles */
     border-radius: 20px; /* rounds the article boarders */
+    /* border-left: 6px solid #567c5c; */
+    box-shadow: 0 4px 0px rgba(0,0,0, 0.20);
+            /* x-offset y-offerset blur color */
+
+            /* 0 = horizontal shadow movement
+               4px  = vertical shadow movement
+               12px = blur amount
+            */
+}
+
+article h3 {
+    margin-top: 0;
+    color: #2f4f3a
 }
 #shelves{
     background-color: rgb(214, 197, 170);
