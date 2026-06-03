@@ -73,11 +73,24 @@ article{
                4px  = vertical shadow movement
                12px = blur amount
             */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
 }
 
 article h3 {
     margin-top: 0;
     color: #2f4f3a
+}
+
+.card-text{
+    flex:1
+}
+article img{
+    width: 140px;
+    height: auto;
+    border-radius: 12px;
 }
 #shelves{
     background-color: rgb(214, 197, 170);
