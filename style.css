@@ -44,10 +44,17 @@ main{
     max-width: 1100px;
     margin: 0 auto;
 }
+
 .main-section{
     background-color: rgb(145, 123, 99);
 }
 
+article{
+    background-color: #f8f4ea;
+    padding: 20px;
+    margin-bottom: 16px; /* separates the articles */
+    border-radius: 20px; /* rounds the article boarders */
+}
 #shelves{
     background-color: rgb(214, 197, 170);
     color:rgb(11, 17, 12);
